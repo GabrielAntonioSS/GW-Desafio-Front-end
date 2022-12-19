@@ -1,0 +1,24 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6%;
+
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2%;
+    font-size: 22px;
+    font-weight: bold;
+}
+.botoes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 12%;
+    margin-top: 2%;
+    font-size: 18px;
+    
+}

@@ -1,0 +1,34 @@
+.formRegister{
+    display: grid;
+    grid-template-columns: 370px;
+    margin-left: 30%;
+    margin-right: 40%;
+    margin-top: 20%;
+}
+
+.inputRegister{
+    padding: 12px;
+    border-radius: 25px;
+    margin-bottom: 8%;
+    height: 2vh;
+    padding-left: 25px;
+
+
+}
+
+.formButtonRegister{
+    border-radius: 25px;
+    margin-bottom: 8%;
+    height: 5.6vh;
+    background-color: rgb(46, 118, 252);
+    border: none;
+    cursor: pointer;
+}
+
+.buttonNameRegister{
+    color: white;
+    font-size: 12pt;
+    font-weight: 600;
+    cursor: pointer;
+    
+}

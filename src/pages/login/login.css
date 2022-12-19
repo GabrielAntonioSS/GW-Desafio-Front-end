@@ -1,0 +1,34 @@
+.form{
+    display: grid;
+    grid-template-columns: 370px;
+    margin-left: 32.6%;
+    margin-right: 32.6%;
+    margin-top: 20%;
+}
+
+.input{
+    padding: 12px;
+    border-radius: 25px;
+    margin-bottom: 8%;
+    height: 2vh;
+    padding-left: 25px;
+    border: 1px solid black;
+
+}
+
+.formButton{
+    border-radius: 25px;
+    margin-bottom: 8%;
+    height: 5.6vh;
+    background-color: rgb(46, 118, 252);
+    border: none;
+    cursor: pointer;
+}
+
+.buttonName{
+    color: white;
+    font-size: 12pt;
+    font-weight: 600;
+    cursor: pointer;
+    
+}

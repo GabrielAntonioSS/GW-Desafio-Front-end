@@ -1,0 +1,36 @@
+.userContainerProfile{
+    background-color: white;
+    border-radius: 14px;
+    height: 30%;
+    box-shadow: 2px 7px 7px 2px rgba(216, 216, 216, 0.77);
+    margin-bottom: 4%;
+    display: flex;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.contedoImg{
+    margin-left: 2%;
+    width: 40px;
+    height: 40px;
+    border-radius: 58px;
+    margin-right: 2%;
+    margin-top: 1.4
+    ;
+}
+.conteudoUser{
+    margin-right: 2%;
+    width: 86%;
+}
+.conteudoLabel{
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.ConteudoDados{
+    font-weight: 300;
+    margin-top: 4px;
+}
+.conteudoNames{
+    font-weight: 700;
+    margin-bottom: 0;
+    font-size: 16pt;
+}
