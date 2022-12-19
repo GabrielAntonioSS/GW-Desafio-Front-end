@@ -15,5 +15,9 @@ https://reqres.in/
 
 Digite: npm start no termial para iniciar o projeto.
 
+## OBS!!!
+
+- 1 Quado clicar em um botão, recarregue a pagina pois esta com um bug de atualização  da pagina, ele passa a rota mas nao recarrega so a pagina.
+- 2 nao consegui fazer a parte do back de registro e login entao deixei os botões de confirmação de registro e login redirecionando para determinada função.
 
 
