@@ -1,13 +1,19 @@
 # GW Desafio Front-end Developer Junior
 
-Ferraentas utilizadas
+## software utilizados
 
-axios
-react 
+- axios
+- react 
+- Visual Studio Code
+- css
 
-API utilizada
+## API utilizada
 
 https://reqres.in/
+
+## Inicialização
+
+Digite: npm start no termial para iniciar o projeto.
 
 
 
